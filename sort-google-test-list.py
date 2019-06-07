@@ -31,6 +31,6 @@ while True:
         tests[current_test] = []
 
 for key in sorted(tests.keys(), key=str.lower):
-    print(key)
+    print(key + '.')
     for value in sorted(tests[key], key=str.lower):
         print('  ' + value)

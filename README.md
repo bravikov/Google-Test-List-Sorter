@@ -35,16 +35,16 @@ Unsorted list:
 
 Sorted list:
 
-    AAA
+    AAA.
       aaaa
       BBBB
       bbbb
       CCCC
-    BBB
+    BBB.
       AAAA
       PPPP
       UUUU
-    ZZZ
+    ZZZ.
       1111
       5555
       cccc
